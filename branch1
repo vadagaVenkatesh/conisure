@@ -4,3 +4,6 @@
 A=[1,2,3;4,5,6;7,8,9]
 AINV=inv(A)
 </head>
+another point to be added to be i=on branch .. not on a tree #%4654543
+this should be seen in edits on .. i ll be there to compare and merge this code or not 
+we have to be quick in order to do things fast
