@@ -1,0 +1,6 @@
+<head>
+<h>greeting loved ones<h/>
+<p>i can write a paragraph but why should i botter about your feeling <p/>
+A=[1,2,3;4,5,6;7,8,9]
+AINV=inv(A)
+</head>
